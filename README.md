@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mahalakshmi <br>I'm currently learning UI and UX<br>  
+Hi, I'm Mahalakshmi <br>I'm currently working on  web development project<br>I'm currently learning UI and UX<br>  
 
 
 # 💻 Tech Stack:
