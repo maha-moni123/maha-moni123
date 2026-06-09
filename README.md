@@ -1,5 +1,25 @@
 # 💫 About Me:
- I’m currently working on:<br>- 🌿 Android mobile applications using Android Studio & Kotlin<br>- 💼 Enterprise applications using Java, Spring Boot, and JavaFX (FXML)<br>- 🌐 Full-stack web development using the MERN stack<br><br>🌱 I’m learning about:<br>- ☁️ Cloud integrations<br>- 🐳 Docker & Kubernetes<br>- 🤖 AI-driven application development<br><br>⚡ **Fun fact:** I’m passionate about staying updated with the latest in tech and love exploring emerging trends in software development!
+ 🎓 I’m an MCA Graduate passionate about software development and problem-solving.<br><br>
+
+💻 I have worked on:<br>
+
+* ☕ Enterprise applications using Java, Spring Boot, and JavaFX (FXML)<br>
+* 🌐 Full-stack web development using the MERN stack<br>
+* 📱 Android mobile applications using Android Studio & Kotlin<br>
+* 📊 Data Analytics and Visualization using Power BI<br>
+* 🤖 Machine Learning and OCR-based applications<br><br>
+
+🚀 My notable projects include:<br>
+
+* 🛡️ Malware Detection using Machine Learning Algorithms<br>
+* 🏥 MediVision – Medical Report Analysis Platform<br>
+* 🛒 OneStop – E-commerce Platform<br>
+  
+
+🌱 I’m continuously learning and staying updated with emerging technologies, industry trends, and modern software development practices to expand my technical expertise.<br><br>
+
+⚡ **Fun fact:** I enjoy building real-world applications, exploring new technologies, and continuously enhancing my technical skills.
+
 
 
 ## 🌐 Socials:
